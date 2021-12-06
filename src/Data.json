@@ -1,0 +1,21 @@
+[
+  {
+    "jobName": "Metal Doors",
+    "carrier": "Roadways",
+    "terms": "Check",
+    "salesOrderId": "USDM-004825",
+    "checkReceived": true
+  }, {
+    "jobName": "Almunium Window",
+    "carrier": "Ship",
+    "terms": "Check",
+    "salesOrderId": "USDM-004826",
+    "checkReceived": false
+  }, {
+    "jobName": "Almunium Grill",
+    "carrier": "Air",
+    "terms": "UnCheck",
+    "salesOrderId": "USDM-004827",
+    "checkReceived": true
+  }
+]
